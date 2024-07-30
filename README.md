@@ -11,10 +11,10 @@ Dataset diperoleh dari Rakamin Academy, berisi data pemesanan pada suatu perusah
 
 ## Latar Belakang dan Objektif
 ### Latar Belakang
-Pada Mini Project ini, Anda berperan sebagai anggota dari tim Data Scientist di sebuah perusahaan hotel. Sebagai anggota dari tim Data Scientist, Anda mendapatkan tanggung jawab untuk memberikan insight-insight yang berhubungan dengan performa bisnis hotel. Insight tersebut dapat dicari dengan eksplorasi data, seperti menganalisis bagaimana perilaku para pelanggan dalam memesan tiket hotel ataupun mencari faktor-faktor yang mempengaruhi pembatalan pemesanan tiket hotel. Kemudian sajikan insight yang Anda dapatkan menggunakan visualisasi dan data storytelling.
+Sebuah perusahaan hotel ingin mengetahui faktor dan insight apa saja yang berhubungan dengan performa pemesanan dalam bisnis hotel. serta mencari faktor-faktor yang mempengaruhi pembatalan pemesanan tiket hotel.
 
 ### Objektif
-- Mengukur perilaku pemesanan hotel berdasarkan jenis hotel dan musim.
+- Mengukur perilaku pemesanan hotel berdasarkan jenis hotel dan musim/event.
 - Menilai pengaruh durasi menginap terhadap tingkat pembatalan pemesanan.
 - Menganalisis pengaruh lead time (waktu antara pemesanan dan tanggal kedatangan) terhadap tingkat pembatalan pemesanan.
 
